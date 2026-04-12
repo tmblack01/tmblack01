@@ -4,6 +4,7 @@
 
 - 👨‍💻 Data scientist, eager to apply my skills to exciting opportunities
 - 📊 Skilled in data analysis, including data collection, preprocessing and coding
+- 🤖 Experienced in software development and machine learning
 - 📚 Completed university studies in data science, computer science and pure mathematics
 - 🔭 Please look at my pinned projects to see what I have worked on
 
